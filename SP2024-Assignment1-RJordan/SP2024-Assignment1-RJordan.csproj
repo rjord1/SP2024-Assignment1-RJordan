@@ -7,4 +7,8 @@
     <RootNamespace>SP2024_Assignment1_RJordan</RootNamespace>
   </PropertyGroup>
 
+  <ItemGroup>
+    <None Include="wwwroot\img\HTGAWM.jpg" />
+  </ItemGroup>
+
 </Project>
